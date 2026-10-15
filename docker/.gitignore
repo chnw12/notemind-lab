@@ -1,0 +1,9 @@
+**/.env
+**/.env.*
+!**/.env.example
+**/__pycache__/
+vllm/diagnose-out.txt
+supabase/volumes/db/data/
+supabase/volumes/storage/
+supabase/volumes/snippets/*
+!supabase/volumes/snippets/.gitkeep
